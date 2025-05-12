@@ -9,7 +9,7 @@
           <th width="200px">Nama Alternatif</th>
           <th width="100px">Kategori</th>
           <th width="300px">Alamat</th>
-          <th width="100px">No Tlp</th>
+          <th width="100px">No Telepon</th>
           <th width="80px">Aksi</th>
         </tr>
       </thead>
